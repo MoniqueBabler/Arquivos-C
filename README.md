@@ -1,6 +1,6 @@
 # Meus arquivos em C
 
 <div align = "center">
-## Monique Babler
+<font size = 20> Monique Babler </font>
 
 </div>
